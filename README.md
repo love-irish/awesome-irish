@@ -3,10 +3,11 @@
 > Is fearr Gaeilge briste, ná Béarla clíste 👏❤️🍀  
 > Broken Irish is better than clever English 👏❤️🍀 
 
-**How this works**
+**How this works**  
 This list contains links to projects and resources that focus on the Irish language. Everything has been organized into categories and items may appear multiple times.
 
-*Are we missing something?* Feel free to open a [pull requests](https://github.com/mklemme/awesome-irish/pulls) to add it. Read our [contribution guidelines](contributing.md) for more info about [what types of things we are looking for](contributing.md#accepted-items)
+*Are we missing something?*  
+Feel free to open a [pull requests](https://github.com/mklemme/awesome-irish/pulls) to add it. Read our [contribution guidelines](contributing.md) for more info about [what types of things we are looking for](contributing.md#accepted-items)
 
 ## Contents
 - [Media](#reading-content)
