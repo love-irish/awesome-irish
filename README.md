@@ -55,17 +55,17 @@ Feel free to open a [pull requests](https://github.com/mklemme/awesome-irish/pul
 ## Apps
 
 [Back to Top](#contents)
- * <a id="learning">**Learning Gaeilge**</a> | [Back to Top](#contents)
+ * <a id="learning">**Learning Gaeilge**</a>
    * [Duolingo](https://duolingo.com/) 
    * [Memrise](https://memrise.com/) 
-* <a id="watching-content">**Watching**</a> | [Back to Top](#contents)
-   * [TG4](https://www.tg4.ie/en/player/home/) 
-   * [RTÉ player](https://www.rte.ie/player/assets/watch/) 
+* <a id="watching-content">**Watching**</a>
+   * [TG4](https://www.tg4.ie/en/player/home/)  
+   * [RTÉ player](https://www.rte.ie/player/assets/watch/)  
    
 ## Datasets
 [Back to Top](#contents)
 
-* <a id="language-datasets">**Language / NLP**</a> | [Back to Top](#contents)
+* <a id="language-datasets">**Corpus / NLP**</a>
    * [Word frequency](http://www.lexiconista.com/datasets/frequency-ga/) 6,500 Irish lemmas (words) ranked by how many times they appear using data from the New Corpus for Ireland. Noise like personal names and English words have been removed.
 
 ## Credits
