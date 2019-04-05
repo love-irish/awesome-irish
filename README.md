@@ -1,7 +1,7 @@
 ![awesome-irish-banner](https://user-images.githubusercontent.com/1305776/39796597-3e7f3d34-530c-11e8-9b52-b472034e5f4d.png)
 
-> Is fearr Gaeilge briste, ná Béarla clíste 👏❤️🍀  
-> Broken Irish is better than clever English 👏❤️🍀 
+> Is fearr Gaeilge briste, ná Béarla clíste 👏❤️☘️  
+> Broken Irish is better than clever English 
 
 **How this works**  
 This list contains links to projects and resources that focus on the Irish language. Everything has been organized into categories and items may appear multiple times.
@@ -12,6 +12,7 @@ Feel free to open a [pull requests](https://github.com/mklemme/awesome-irish/pul
 ## Contents
 - [Media](#reading-content)
   - [Youtube channels](#tutorials)
+- [Video Games](#video-games)
 - [Reading Content](#reading-content)
   - [Tutorials](#tutorials)
   - [Guides](#guides)
@@ -31,6 +32,10 @@ Feel free to open a [pull requests](https://github.com/mklemme/awesome-irish/pul
 [Back to Top](#contents)
 ### Youtube channels
 [Back to Top](#contents)
+## Video Games
+[Back to Top](#contents)
+ * <a id="web">**Web**</a> | [Back to Top](#contents)
+   * [Fadó](https://www.rte.ie/lifestyle/living/2019/0321/1037756-fado-the-video-game-merging-irish-myths-with-modern-tech/) [coming soon] A role-playing game (RPG) based on the figures and legends of Irish mythology, including Fionn Mac Cumhaill, Cú Chulainn and the Salmon of Knowledge.
 ## Reading Content
 [Back to Top](#contents)
 ### Tutorials
@@ -53,7 +58,6 @@ Feel free to open a [pull requests](https://github.com/mklemme/awesome-irish/pul
 [Back to Top](#contents)
 ### Python
 ## Apps
-
 [Back to Top](#contents)
  * <a id="learning">**Learning Gaeilge**</a>
    * [Duolingo](https://duolingo.com/) 
@@ -70,7 +74,6 @@ Feel free to open a [pull requests](https://github.com/mklemme/awesome-irish/pul
 
 ## Credits
 [Back to Top](#contents)
-
-* [Myk](https://github.com/mklemme) 
-* [Love.irish](https://github.com/love-irish)
+* [@mklemme](https://github.com/mklemme) 
+* [@love-irish](https://github.com/love-irish)
  
