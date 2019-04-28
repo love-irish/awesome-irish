@@ -72,8 +72,13 @@ Feel free to open a [pull requests](https://github.com/mklemme/awesome-irish/pul
 * <a id="language-datasets">**Corpus / NLP**</a>
    * [Word frequency](http://www.lexiconista.com/datasets/frequency-ga/) 6,500 Irish lemmas (words) ranked by how many times they appear using data from the New Corpus for Ireland. Noise like personal names and English words have been removed.
 
-## Credits
+## Contributors
 [Back to Top](#contents)
-* [@mklemme](https://github.com/mklemme) 
-* [@love-irish](https://github.com/love-irish)
+### People
+- [Myk Klemme - @mklemme](https://github.com/mklemme) Creator of Love.irish | Developer & designer
+### Partners
+- [Invisible Hat Ventures - @invisiblehats](https://github.com/invisiblehats) A private startup development agency
+- [Love.irish - @love-irish](https://github.com/love-irish) A lifestyle-as-a-service for the Irish language
+- [League of Celts - @league-of-celts](https://github.com/league-of-celts) A non-profit focused on promoting Celtic languages
+
  
